@@ -1,4 +1,2 @@
 # first-demo
-This is my first Git Repository
-
-Author- Krushna Dhadge
+This is my first Git Repository <br> Author- Krushna Dhadge
